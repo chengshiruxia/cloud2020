@@ -20,4 +20,5 @@ public class Payment implements Serializable
 
     private String a;
 
+    private String mastera;
 }
