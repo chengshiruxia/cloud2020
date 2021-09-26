@@ -18,7 +18,9 @@ public class Payment implements Serializable
     private Long id;
     private String serial;
 
-    private String a;
+    private String  a;
+
+    private String  hotfixa;
 
     private String mastera;
 }
